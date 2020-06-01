@@ -1,0 +1,14 @@
+Random Name Picker 0.0.2 GUI edition is here!
+Please bear in mind, we are still in alpha and this is quite a minor update.
+
+Changes:
+    A new feature has been added to clear the list of names.
+    The wording of the about section has been changed to "Based on Python" to "Coded with Python".
+
+Future Plans:
+    We have discontinued the CLI edition - my original program that this is based on. However, that program was never released to the public and has not been updated. For this reason, version 0.0.2 (this release) will be the last known as "GUI Edition". From 0.0.3 and onwards, Random-Name-Picker will be the full name.
+    We also plan on adding a feature that allows users to save their list of names as a CSV file as well as import CSV files. I feel that would be better than implementing a list of predefined names, although, I could implement that as well.
+
+Thank you so much for your support,
+
+zeddytbr(Tom)
